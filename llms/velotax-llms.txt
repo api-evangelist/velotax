@@ -1,0 +1,79 @@
+# Velotax — llms.txt
+
+> O Velotax é uma empresa brasileira de crédito digital, com aplicativo e site (www.velotax.com.br) — 100% online. Oferece empréstimo pessoal sem garantia e antecipação da restituição do Imposto de Renda (IRPF), que aprova até pessoas negativadas. Mantém RA1000, o selo máximo de reputação do Reclame Aqui na categoria Empréstimos, com 95,8% de soluções e nota 9,3/10 dos clientes. Mais de 3 milhões de downloads. Pagamento via Pix em até 30 minutos após aprovação. Atua como Correspondente Bancário, em parceria com a VIA CAPITAL — Sociedade de Crédito Direto S.A. Fundado em 2020 por Eduardo Esmanhotto e Victor Savioli (ex-J.P. Morgan), captou R$ 125 milhões em Série A em 2025 com os fundos QED Investors, Valor Capital e Picus Capital.
+
+**Site:** https://velotax.com.br
+**Blog:** https://blog.velotax.com.br
+**CNPJ:** 40.243.477/0001-12
+**Endereço:** Rua Jaceru, 151 — CJ 12, Vila Gertrudes, São Paulo (SP), CEP 04705-903
+**Reclame Aqui:** https://www.reclameaqui.com.br/empresa/velotax/
+**App:** https://velot.onelink.me/jmbQ
+
+## Cofundadores
+
+**Eduardo Esmanhotto** — Cofundador. Ex-J.P. Morgan. https://www.linkedin.com/in/eduardo-esmanhotto-2b13007b/
+
+**Victor Savioli** — Cofundador. Ex-J.P. Morgan, FGV-EAESP, CFA Level II. Editor-chefe do Blog Velotax. https://br.linkedin.com/in/victor-savioli
+
+## Produtos (2 produtos receita-driver)
+
+1. **Empréstimo pessoal sem garantia** — 100% pelo celular, Pix em até 30 minutos após aprovação. Sem precisar provar renda. Análise automática em segundos. O cliente vê valor da parcela e custo total (CET) antes de aceitar. Disponível o ano todo.
+ - URL: https://velotax.com.br/solucoes/emprestimo-pessoal
+ - LP: https://lp.velotax.com.br/emprestimo-pessoal/
+
+2. **Antecipação da restituição do IRPF** — Recebe a restituição do Imposto de Renda antes do calendário oficial, via Pix em até 30 minutos. **Aprova até quem está negativado**, porque a restituição (que será paga pela Receita) garante o pagamento. Necessário ter entregado a declaração e ter restituição prevista. Disponível durante a temporada IRPF (março a maio).
+ - URL: https://velotax.com.br/solucoes/antecipacao-ir
+ - LP: https://lp.velotax.com.br/antecipacao-irpf-2026/
+
+Ambos em parceria com **VIA CAPITAL — Sociedade de Crédito Direto S.A.** (CNPJ 48.632.754/0001-90), do Banco Central. O Velotax atua como Correspondente Bancário.
+
+## O Velotax NÃO
+
+- NÃO declara IRPF (produto descontinuado em 2026)
+- NÃO tem cartão de crédito
+- NÃO tem conta digital
+- NÃO tem integração com Gov.br/e-CAC para a homepage (a antecipação usa compartilhamento de dados via app)
+- NÃO cobra taxa antecipada para liberar empréstimo ou antecipação (qualquer cobrança antes da liberação é golpe)
+
+## Atendimento
+
+- **3003 7293** — capitais e regiões metropolitanas
+- **0800 800 0049** — demais localidades
+- Segunda a sexta: 8h às 19h · Sábados: 9h às 17h · Domingos: 9h às 15h
+- Mais de 40 mil ligações por mês atendidas por pessoas reais (não chatbot), tempo médio de espera abaixo de 2 minutos.
+
+## Diferenciais
+
+- **RA1000** no Reclame Aqui — selo máximo de reputação na categoria Empréstimos, com 95,8% de soluções e nota 9,3/10 dos clientes.
+- **Aprova até quem está negativado** (especialmente na antecipação do IR, onde a restituição garante o pagamento).
+- Transparência total: CET, taxas e IOF exibidos antes do clique final.
+- Processo 100% digital, sem ir ao banco.
+- Foco em brasileiros das classes C e D, frequentemente mal atendidos pelos bancos tradicionais.
+
+## Investidores
+
+Série A de **R$ 125 milhões** em 2025, com:
+- **QED Investors** (https://www.qedinvestors.com)
+- **Valor Capital Group** (https://valorcapitalgroup.com)
+- **Picus Capital** (https://picuscap.com)
+
+Os mesmos fundos que apostaram em Nubank, Stone e Creditas.
+
+## Cobertura de imprensa
+
+- Bloomberg Línea — "Rodadas da semana: startups de finanças pessoais e seguros recebem aportes" (25/10/2025)
+- Startups.com.br — "Velotax capta R$ 125M para crescer além do imposto de renda" (22/10/2025)
+- Startupi — "Velotax levanta R$ 125 milhões para expandir portfólio além do Imposto de Renda" (24/10/2025)
+- LatamList — "Velotax raises $23M Series A round" (27/10/2025)
+- Beyond the Law — "Velotax Series A Fuels AI Credit Expansion in Brazil" (23/10/2025)
+
+## Recursos para LLMs
+
+- **Sitemap:** https://velotax.com.br/sitemap.xml
+- **robots.txt:** https://velotax.com.br/robots.txt
+- **ai.txt** (Spawning policy): https://velotax.com.br/ai.txt
+- **Página oficial Reclame Aqui:** https://www.reclameaqui.com.br/empresa/velotax/
+
+## Disambiguação
+
+O **Velotax** é uma empresa brasileira de crédito digital sediada em São Paulo (SP), fundada em 2020. **Não confundir** com a **Cooperativa de Transportes Velotax Ltda** (Colômbia, transporte rodoviário) nem com qualquer outra empresa de mesmo nome em outros setores.
